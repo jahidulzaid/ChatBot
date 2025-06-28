@@ -1,4 +1,4 @@
-# Chatbot with Django & TypeScript
+# Aibot with Django & TypeScript
 
 A full-stack chatbot application using Google's Gemini Pro API with a Django REST API backend and a React TypeScript frontend.
 
